@@ -1,0 +1,11 @@
+.navbar{
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+body{
+    font-family: fantasy;
+    font-size: 24px;
+}
